@@ -1,0 +1,3 @@
+requests
+pillow
+huggingface_hub
