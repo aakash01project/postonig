@@ -1,0 +1,842 @@
+[
+ {
+  "n": 1,
+  "en": "Tadasana",
+  "hi": "ताड़ासन",
+  "line": "यह आसन शरीर को सीधा रखना और संतुलन बनाना सिखाता है।",
+  "points": [
+   "Sahi posture banane me madad karta hai",
+   "Pairon aur takhnon ko mazboot banata hai",
+   "Rid ki haddi ko seedha rakhne ki aadat dalta hai",
+   "Sharir me halka khinchav aur taazgi laata hai"
+  ],
+  "how": "Seedhe khade ho, pair paas me, hath side me, saans lete hue sir ko upar kheeche.",
+  "prompt": "A realistic photograph of a real person doing the Tadasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Standing straight, front view, feet together, both arms relaxed down at the sides with palms facing forward, spine tall, shoulders relaxed, chin level, calm face, eyes open looking straight ahead. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 2,
+  "en": "Sukhasana",
+  "hi": "सुखासन",
+  "line": "यह आसन मन को शांत और सांसों को स्थिर करता है।",
+  "points": [
+   "Dhyan aur pranayam ke liye aaram ka asan hai",
+   "Mann ko shant karne me madad karta hai",
+   "Kamar aur kulhon ko halka khol deta hai",
+   "Rid ko seedha rakhne ki aadat dalta hai"
+  ],
+  "how": "Zameen par cross-legged baitho, rid seedhi, hath ghutno par, aankhein halki band.",
+  "prompt": "A realistic photograph of a real person doing the Sukhasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Sitting cross-legged on the floor, front view, spine straight and tall, shoulders relaxed, both hands resting on the knees with palms up, eyes gently closed, serene face. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 3,
+  "en": "Shavasana",
+  "hi": "शवासन",
+  "line": "यह आसन शरीर और मन को गहरा आराम देता है।",
+  "points": [
+   "Poore sharir ko aaram dene me madad karta hai",
+   "Tanav aur thakan kam mehsoos karne me madad karta hai",
+   "Yoga ke ant me sharir ko shant karta hai",
+   "Saans par dhyan lagane ka accha tarika hai"
+  ],
+  "how": "Peeth ke bal let jao, pair thode alag, hath side me palm upar, aankhein band, gehri saans.",
+  "prompt": "A realistic photograph of a real person doing the Shavasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Lying flat on the back, seen from above or from the side, legs slightly apart and relaxed, arms resting beside the body a little away from the torso with palms facing up, eyes closed, peaceful face. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 4,
+  "en": "Vajrasana",
+  "hi": "वज्रासन",
+  "line": "भोजन के बाद बैठने वाला यह आसन पाचन में मदद करता है।",
+  "points": [
+   "Khana khane ke baad bhi kiya ja sakne wala asan hai",
+   "Pachan me madad karta hai",
+   "Pairon aur ghutno ko stretch deta hai",
+   "Rid ko seedha rakhne me madad karta hai"
+  ],
+  "how": "Ghutno ke bal baitho, nitamb edi par, rid seedhi, hath jaangh par. Ghutne dukhe to na kare.",
+  "prompt": "A realistic photograph of a real person doing the Vajrasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Kneeling and sitting back on the heels, side view, knees together, top of the feet on the floor, spine straight and tall, hands resting on the thighs, calm face looking forward. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 5,
+  "en": "Dandasana",
+  "hi": "दंडासन",
+  "line": "यह आसन पीठ और कोर को मज़बूत बनाने में मदद करता है।",
+  "points": [
+   "Peeth ko seedha rakhna sikhata hai",
+   "Core aur kandhon ko active karta hai",
+   "Baithne ki sahi posture banata hai",
+   "Aage ke asano ki taiyari karta hai"
+  ],
+  "how": "Pair saamne seedhe failao, rid seedhi, hath kamar ke paas zameen par.",
+  "prompt": "A realistic photograph of a real person doing the Dandasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Sitting on the floor with both legs stretched straight forward together, side view, feet flexed, spine upright, palms pressing on the floor beside the hips, arms straight, chin level. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 6,
+  "en": "Balasana",
+  "hi": "बालासन",
+  "line": "यह आसन पीठ और मन का तनाव कम करता है।",
+  "points": [
+   "Peeth aur kamar ko aaram deta hai",
+   "Tanav kam mehsoos karne me madad karta hai",
+   "Kandhon aur gardan ko dheela karta hai",
+   "Thakan ke baad karne ke liye accha hai"
+  ],
+  "how": "Ghutno ke bal baitho, aage jhuko, maatha zameen par, hath aage failao ya side me rakho.",
+  "prompt": "A realistic photograph of a real person doing the Balasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Child's pose: kneeling, hips resting back on the heels, torso folded forward over the thighs, forehead resting on the floor, both arms stretched forward on the floor, side view, relaxed. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 7,
+  "en": "Marjaryasana",
+  "hi": "मार्जरी आसन",
+  "line": "यह आसन रीढ़ को लचीला बनाने में मदद करता है।",
+  "points": [
+   "Rid ki haddi ko lachila banata hai",
+   "Peeth ki akdan kam karne me madad karta hai",
+   "Saans ke saath chalne se mann shant hota hai",
+   "Kandhe aur gardan ko dheela karta hai"
+  ],
+  "how": "Hath aur ghutno par aao, saans chhodte hue peeth upar gol karo, thori thudi andar.",
+  "prompt": "A realistic photograph of a real person doing the Marjaryasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Cat pose: on hands and knees (tabletop), side view, wrists under shoulders, knees under hips, back rounded upward like a cat, head gently dropped, chin toward the chest. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 8,
+  "en": "Uttanasana",
+  "hi": "उत्तानासन",
+  "line": "यह आसन पीठ और पैरों के पीछे की मांसपेशियों को खींचता है।",
+  "points": [
+   "Pairon ke piche ki muscles ko stretch deta hai",
+   "Peeth aur kamar ko dheela karta hai",
+   "Mann ko shant karne me madad karta hai",
+   "Sir ko neeche rakhne se taazgi mehsoos hoti hai"
+  ],
+  "how": "Seedhe khade ho, saans chhodte hue kamar se aage jhuko, ghutne halke mude ho sakte hain.",
+  "prompt": "A realistic photograph of a real person doing the Uttanasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Standing forward fold: feet hip-width apart, torso folded forward from the hips, head hanging down toward the legs, palms or fingertips on the floor beside the feet, knees slightly soft, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 9,
+  "en": "Vrikshasana",
+  "hi": "वृक्षासन",
+  "line": "यह आसन संतुलन और एकाग्रता बढ़ाने में मदद करता है।",
+  "points": [
+   "Balance sudharne me madad karta hai",
+   "Ek jagah dhyan lagane ki aadat dalta hai",
+   "Pairon aur kulhon ko mazboot karta hai",
+   "Rid ko seedha rakhne me madad karta hai"
+  ],
+  "how": "Ek pair par khade ho, doosre ka talwa jaangh par rakho, hath sir ke upar jodo.",
+  "prompt": "A realistic photograph of a real person doing the Vrikshasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Tree pose: standing on one leg, the other knee bent outward with the sole of that foot resting on the inner thigh of the standing leg (not on the knee), palms joined together above the head, arms straight, front view, calm face. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 10,
+  "en": "Bhujangasana",
+  "hi": "भुजंगासन",
+  "line": "यह आसन पीठ को मज़बूत और छाती को खोलता है।",
+  "points": [
+   "Peeth ki muscles ko mazboot karta hai",
+   "Chhati ko kholne me madad karta hai",
+   "Rid ko peeche ki taraf lachila banata hai",
+   "Kandhe aur gardan ko stretch deta hai"
+  ],
+  "how": "Pet ke bal let kar hath kandhon ke neeche rakho, saans lete hue chhati upar uthao.",
+  "prompt": "A realistic photograph of a real person doing the Bhujangasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Cobra pose: lying on the stomach, side view, palms on the floor under the shoulders, chest and head lifted up with the arms slightly bent, hips and legs resting on the floor with the tops of the feet down, gaze forward. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 11,
+  "en": "Utkatasana",
+  "hi": "उत्कटासन",
+  "line": "यह आसन पैरों और जांघों को मज़बूत बनाने में मदद करता है।",
+  "points": [
+   "Jaangh aur pairon ko mazboot karta hai",
+   "Sharir me garmi aur taakat laata hai",
+   "Santulan sudharne me madad karta hai",
+   "Rid ko seedha rakhne ki practice karta hai"
+  ],
+  "how": "Pair paas me, ghutne modkar jaise kursi par baithe ho, hath sir ke upar uthao.",
+  "prompt": "A realistic photograph of a real person doing the Utkatasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Chair pose: standing with feet together, knees bent and hips pushed back as if sitting on an invisible chair, torso leaning slightly forward, both arms raised straight up beside the ears with palms facing each other, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 12,
+  "en": "Setu Bandhasana",
+  "hi": "सेतुबंधासन",
+  "line": "यह आसन कमर और पीठ को मज़बूत बनाने में मदद करता है।",
+  "points": [
+   "Kamar aur peeth ko mazboot karta hai",
+   "Kuulhon aur jaangh ki muscles ko active karta hai",
+   "Chhati aur gardan ko halka stretch deta hai",
+   "Mann ko shant rakhne me madad karta hai"
+  ],
+  "how": "Peeth ke bal let kar ghutne modo, kamar upar uthao, hath side me zameen par.",
+  "prompt": "A realistic photograph of a real person doing the Setu Bandhasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Bridge pose: lying on the back, knees bent with feet flat on the floor hip-width apart, hips lifted up so the body forms a straight slope from shoulders to knees, arms resting on the floor beside the body palms down, shoulders and head on the floor, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 13,
+  "en": "Trikonasana",
+  "hi": "त्रिकोणासन",
+  "line": "यह आसन शरीर के बगल की मांसपेशियों को खींचकर लचीलापन बढ़ाता है।",
+  "points": [
+   "Kamar ke side ki muscles ko stretch deta hai",
+   "Pairon ko mazboot banata hai",
+   "Sharir ka lachilapan badhane me madad karta hai",
+   "Chhati ko kholne me madad karta hai"
+  ],
+  "how": "Pair chaude karo, ek taraf jhuko, ek hath neeche pair ke paas, doosra hath upar.",
+  "prompt": "A realistic photograph of a real person doing the Trikonasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Triangle pose: standing with legs wide apart, front foot turned out, torso bent sideways over the front leg, the lower arm reaching down toward the front shin or ankle, the other arm stretched straight up, both arms in one vertical line, chest open, gaze toward the upper hand, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 14,
+  "en": "Naukasana",
+  "hi": "नौकासन",
+  "line": "यह आसन पेट की मांसपेशियों को मज़बूत बनाने में मदद करता है।",
+  "points": [
+   "Pet ki muscles ko mazboot karta hai",
+   "Core ki taakat badhane me madad karta hai",
+   "Santulan sudharne me madad karta hai",
+   "Peeth ko seedha rakhne ki practice karta hai"
+  ],
+  "how": "Peeth ke bal let kar sir aur pair ek saath upar uthao, hath pairon ki taraf, balance banao.",
+  "prompt": "A realistic photograph of a real person doing the Naukasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Boat pose: sitting balanced on the sit bones, legs lifted straight forward at about forty-five degrees, torso leaning back with the chest lifted and spine straight, both arms stretched forward parallel to the floor, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 15,
+  "en": "Virabhadrasana II",
+  "hi": "वीरभद्रासन 2",
+  "line": "यह आसन पैरों और कंधों में ताकत और स्थिरता बढ़ाता है।",
+  "points": [
+   "Pairon aur jaangh ko mazboot karta hai",
+   "Kandhon aur bahon me taakat laata hai",
+   "Stamina aur ekagrata badhane me madad karta hai",
+   "Sharir me sthirta mehsoos hoti hai"
+  ],
+  "how": "Pair chaude karo, aage wala ghutna modo, dono hath side me failao, nazar aage ke hath par.",
+  "prompt": "A realistic photograph of a real person doing the Virabhadrasana II yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Warrior II: standing with legs wide apart, front knee bent at ninety degrees directly over the ankle, back leg straight, torso upright facing the side, both arms stretched out horizontally at shoulder height, gaze over the front hand, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 16,
+  "en": "Shalabhasana",
+  "hi": "शलभासन",
+  "line": "यह आसन पीठ की मांसपेशियों को मज़बूत बनाने में मदद करता है।",
+  "points": [
+   "Peeth aur kamar ko mazboot karta hai",
+   "Kuulhon aur jaangh ki muscles ko active karta hai",
+   "Rid ko peeche ki taraf mazboot banata hai",
+   "Chhati ko halka kholta hai"
+  ],
+  "how": "Pet ke bal let kar sir, chhati aur pair ek saath halke upar uthao.",
+  "prompt": "A realistic photograph of a real person doing the Shalabhasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Locust pose: lying on the stomach, side view, chest and head lifted off the floor, both legs lifted together off the floor, arms stretched back along the sides of the body, gaze slightly forward. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 17,
+  "en": "Paschimottanasana",
+  "hi": "पश्चिमोत्तानासन",
+  "line": "यह आसन पीठ और पैरों के पीछे के हिस्से को खींचता है।",
+  "points": [
+   "Peeth aur pairon ke piche ki muscles ko stretch deta hai",
+   "Mann ko shant karne me madad karta hai",
+   "Kamar ko dheela karne me madad karta hai",
+   "Sharir me lachilapan badhata hai"
+  ],
+  "how": "Pair saamne failao, saans chhodte hue aage jhuko, hath pairon ki taraf badhao.",
+  "prompt": "A realistic photograph of a real person doing the Paschimottanasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Seated forward bend: sitting with both legs stretched straight forward together, torso folded forward over the legs, spine long, both hands holding the feet or shins, head lowered toward the knees, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 18,
+  "en": "Dhanurasana",
+  "hi": "धनुरासन",
+  "line": "यह आसन पूरी पीठ और छाती को खोलने में मदद करता है।",
+  "points": [
+   "Peeth ki muscles ko mazboot karta hai",
+   "Chhati aur kandhon ko kholta hai",
+   "Rid ko lachila banata hai",
+   "Pet ko halka stretch deta hai"
+  ],
+  "how": "Pet ke bal let kar ghutne modo, hath se takhne pakdo, saans lekar chhati aur pair upar uthao.",
+  "prompt": "A realistic photograph of a real person doing the Dhanurasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Bow pose: lying on the stomach, knees bent, both hands reaching back to hold the ankles, chest and thighs lifted off the floor so the body forms a bow shape, gaze forward, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 19,
+  "en": "Ardha Matsyendrasana",
+  "hi": "अर्धमत्स्येन्द्रासन",
+  "line": "यह आसन रीढ़ को घुमाकर उसकी लचक बढ़ाने में मदद करता है।",
+  "points": [
+   "Rid ko ghumane se lachilapan badhta hai",
+   "Kamar aur peeth ki akdan kam karne me madad karta hai",
+   "Pachan tantra ko halka stimulate karta hai",
+   "Kandhon aur gardan ko stretch deta hai"
+  ],
+  "how": "Baith kar ek pair doosre ke upar rakho, rid seedhi rakh kar dheere se mudo.",
+  "prompt": "A realistic photograph of a real person doing the Ardha Matsyendrasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Seated spinal twist: sitting on the floor, one leg bent with its foot placed outside the opposite knee, the other leg folded on the floor, torso upright and twisted toward the raised knee, one arm hugging the knee and the other hand on the floor behind, gaze over the shoulder, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 20,
+  "en": "Adho Mukha Svanasana",
+  "hi": "अधोमुख श्वानासन",
+  "line": "यह आसन पूरे शरीर को खींचकर ताज़गी देने में मदद करता है।",
+  "points": [
+   "Poore sharir ko stretch deta hai",
+   "Kandhon aur bahon ko mazboot karta hai",
+   "Pairon ke piche ki muscles ko kholta hai",
+   "Sharir me taazgi mehsoos karne me madad karta hai"
+  ],
+  "how": "Hath aur pair zameen par rakho, kulhe upar uthao, sharir ulte V ki shape me.",
+  "prompt": "A realistic photograph of a real person doing the Adho Mukha Svanasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Downward-facing dog: hands and feet on the floor, hips lifted high so the body forms an inverted V shape, arms straight, back long, legs straight with heels reaching down, head between the arms, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 21,
+  "en": "Padmasana",
+  "hi": "पद्मासन",
+  "line": "यह आसन ध्यान के समय मन को स्थिर रखता है।",
+  "points": [
+   "Dhyan ke liye accha asan hai",
+   "Mann ko sthir rakhne me madad karta hai",
+   "Kuulhe aur ghutno ko lachila banata hai",
+   "Rid ko seedha rakhne me madad karta hai"
+  ],
+  "how": "Pair jaanghon par rakh kar baitho. Ghutno me dard ho to na kare, Sukhasana kare.",
+  "prompt": "A realistic photograph of a real person doing the Padmasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Lotus pose: sitting cross-legged with each foot resting on the opposite thigh, soles facing up, spine straight and tall, hands resting on the knees in a relaxed mudra, eyes gently closed, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 22,
+  "en": "Ustrasana",
+  "hi": "उष्ट्रासन",
+  "line": "यह आसन छाती और कंधों को खोलने में मदद करता है।",
+  "points": [
+   "Chhati aur kandhon ko kholta hai",
+   "Peeth ko peeche ki taraf lachila banata hai",
+   "Jaangh ke aage ki muscles ko stretch deta hai",
+   "Posture sudharne me madad karta hai"
+  ],
+  "how": "Ghutno ke bal khade ho, hath kamar par rakho, dheere se peeche jhuko.",
+  "prompt": "A realistic photograph of a real person doing the Ustrasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Camel pose: kneeling upright with knees hip-width apart, torso arched backward, both hands reaching back to hold the heels, chest lifted and open, hips pushed forward over the knees, head neutral or gently back, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 23,
+  "en": "Gomukhasana",
+  "hi": "गोमुखासन",
+  "line": "यह आसन कंधों और कूल्हों की जकड़न कम करता है।",
+  "points": [
+   "Kandhon ki jakdan kam karne me madad karta hai",
+   "Kuulhon aur jaangh ko stretch deta hai",
+   "Rid ko seedha rakhne me madad karta hai",
+   "Chhati ko kholne me madad karta hai"
+  ],
+  "how": "Ghutne ek ke upar ek rakh kar baitho, ek hath upar se ek neeche se peeth par jodo.",
+  "prompt": "A realistic photograph of a real person doing the Gomukhasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Cow face pose: sitting with one knee stacked directly over the other, both feet beside the hips, spine upright, one arm raised and bent behind the head while the other arm comes up from behind the back, fingers hooked together behind the back, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 24,
+  "en": "Garudasana",
+  "hi": "गरुड़ासन",
+  "line": "यह आसन कंधों और जांघों को खींचकर संतुलन सुधारता है।",
+  "points": [
+   "Balance sudharne me madad karta hai",
+   "Kandhon aur bahon ko stretch deta hai",
+   "Jaangh aur ghutno ko mazboot karta hai",
+   "Ekagrata badhane me madad karta hai"
+  ],
+  "how": "Ghutne modo, ek pair doosre par lapeto, hathon ko aapas me lapeto, sir ke saamne rakho.",
+  "prompt": "A realistic photograph of a real person doing the Garudasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Eagle pose: standing on one bent leg with the other leg wrapped over it, arms crossed in front of the chest with elbows stacked and forearms twisted so the palms touch, elbows lifted to shoulder height, torso upright, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 25,
+  "en": "Ardha Chandrasana",
+  "hi": "अर्धचंद्रासन",
+  "line": "यह आसन पैरों को मज़बूत बनाकर संतुलन सुधारने में मदद करता है।",
+  "points": [
+   "Pairon ko mazboot karta hai",
+   "Santulan sudharne me madad karta hai",
+   "Sharir ke side ko stretch deta hai",
+   "Ekagrata badhane me madad karta hai"
+  ],
+  "how": "Ek pair par khade ho kar doosra pair side me uthao, ek hath neeche, ek hath upar.",
+  "prompt": "A realistic photograph of a real person doing the Ardha Chandrasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Half moon pose: standing on one straight leg, torso bent sideways parallel to the floor, the other leg lifted straight out behind at hip height, lower hand on the floor under the shoulder, upper arm stretched straight up, chest open, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 26,
+  "en": "Matsyasana",
+  "hi": "मत्स्यासन",
+  "line": "यह आसन गर्दन और छाती को खोलने में मदद करता है।",
+  "points": [
+   "Chhati aur gardan ko stretch deta hai",
+   "Kandhon ko kholne me madad karta hai",
+   "Sans lene ke liye jagah banata hai",
+   "Peeth ko halka lachila banata hai"
+  ],
+  "how": "Peeth ke bal let kar chhati upar uthao, sir ka upar ka hissa halke se zameen par rakho.",
+  "prompt": "A realistic photograph of a real person doing the Matsyasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Fish pose: lying on the back, chest lifted in an arch, top of the head lightly resting on the floor, legs straight together on the floor, arms resting beside the body with palms down, side view, relaxed face. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 27,
+  "en": "Janu Sirsasana",
+  "hi": "जानुशीर्षासन",
+  "line": "यह आसन पैरों के पिछले हिस्से और कमर को खींचता है।",
+  "points": [
+   "Pairon ke piche ki muscles ko stretch deta hai",
+   "Kamar aur peeth ko dheela karta hai",
+   "Mann ko shant karne me madad karta hai",
+   "Pachan ke liye pet ko halka dabav deta hai"
+  ],
+  "how": "Ek pair saamne failao, doosre ka talwa jaangh par rakho, aage jhuko.",
+  "prompt": "A realistic photograph of a real person doing the Janu Sirsasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Head-to-knee pose: sitting with one leg straight, the other knee bent outward with the sole against the inner thigh, torso folded forward over the straight leg, both hands holding the foot or shin, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 28,
+  "en": "Baddha Konasana",
+  "hi": "बद्धकोणासन",
+  "line": "यह आसन कूल्हों और जांघों के अंदरूनी हिस्से को खोलता है।",
+  "points": [
+   "Kuulhon aur jaangh ke andar ko stretch deta hai",
+   "Kamar ko aaram dene me madad karta hai",
+   "Rid ko seedha rakhne me madad karta hai",
+   "Mann ko shant karne me madad karta hai"
+  ],
+  "how": "Baith kar dono talwe milao, ghutne side me girne do, pairon ko pakad kar rid seedhi rakho.",
+  "prompt": "A realistic photograph of a real person doing the Baddha Konasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Butterfly pose: sitting upright with the soles of the feet pressed together, knees dropped out to the sides, both hands holding the feet, spine straight, shoulders relaxed, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 29,
+  "en": "Virabhadrasana I",
+  "hi": "वीरभद्रासन 1",
+  "line": "यह आसन छाती खोलकर पैरों और कंधों को मज़बूत बनाता है।",
+  "points": [
+   "Pairon aur kandhon ko mazboot karta hai",
+   "Chhati ko kholne me madad karta hai",
+   "Balance aur stamina badhata hai",
+   "Sharir me taakat laata hai"
+  ],
+  "how": "Ek pair aage, ek peeche, aage ka ghutna modo, dono hath sir ke upar jodo.",
+  "prompt": "A realistic photograph of a real person doing the Virabhadrasana I yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Warrior I: standing in a lunge with the front knee bent at ninety degrees over the ankle, back leg straight with the back foot turned out slightly, hips and chest facing forward, both arms raised straight up with palms together, gaze up, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 30,
+  "en": "Virabhadrasana III",
+  "hi": "वीरभद्रासन 3",
+  "line": "यह आसन संतुलन और पूरे शरीर की ताकत बढ़ाता है।",
+  "points": [
+   "Santulan sudharne me madad karta hai",
+   "Pairon, peeth aur kandhon ko mazboot karta hai",
+   "Ekagrata badhane me madad karta hai",
+   "Core ko active rakhta hai"
+  ],
+  "how": "Ek pair par khade ho kar aage jhuko, doosra pair peeche uthao, hath aage failao.",
+  "prompt": "A realistic photograph of a real person doing the Virabhadrasana III yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Warrior III: balancing on one straight leg, torso and the other leg lifted straight back so the body forms a T shape parallel to the floor, both arms stretched forward in front of the head, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 31,
+  "en": "Utthita Parsvakonasana",
+  "hi": "उत्थित पार्श्वकोणासन",
+  "line": "यह आसन टांगों को मज़बूत और बगल को लचीला बनाता है।",
+  "points": [
+   "Tangon aur jaangh ko mazboot karta hai",
+   "Kamar ke side ko stretch deta hai",
+   "Chhati ko kholne me madad karta hai",
+   "Stamina badhane me madad karta hai"
+  ],
+  "how": "Pair chaude karo, aage ka ghutna modo, ek hath neeche, doosra hath kaan ke saath upar.",
+  "prompt": "A realistic photograph of a real person doing the Utthita Parsvakonasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Extended side angle: wide lunge with the front knee bent at ninety degrees, torso leaning sideways over the front thigh, the lower hand on the floor or on the knee, the upper arm stretched in a long diagonal line past the ear, back leg straight, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 32,
+  "en": "Prasarita Padottanasana",
+  "hi": "प्रसारित पादोत्तानासन",
+  "line": "यह आसन पैरों को खींचता है और मन को शांत करता है।",
+  "points": [
+   "Pairon ke andar aur piche ki muscles ko stretch deta hai",
+   "Peeth ko dheela karne me madad karta hai",
+   "Mann ko shant karne me madad karta hai",
+   "Sir neeche hone se taazgi milti hai"
+  ],
+  "how": "Pair chaude karo, kamar se aage jhuko, hath zameen par rakho, sir neeche.",
+  "prompt": "A realistic photograph of a real person doing the Prasarita Padottanasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Wide-legged forward fold: standing with feet wide apart and parallel, torso folded forward from the hips, head hanging down between the legs, both palms flat on the floor under the shoulders, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 33,
+  "en": "Urdhva Mukha Svanasana",
+  "hi": "ऊर्ध्वमुख श्वानासन",
+  "line": "यह आसन छाती खोलता और बाजुओं को मज़बूत बनाता है।",
+  "points": [
+   "Chhati ko kholne me madad karta hai",
+   "Bahon aur kalaiyon ko mazboot karta hai",
+   "Rid ko peeche ki taraf lachila banata hai",
+   "Posture sudharne me madad karta hai"
+  ],
+  "how": "Hath seedhe kar ke chhati upar uthao, kulhe aur jaangh zameen se upar rakho.",
+  "prompt": "A realistic photograph of a real person doing the Urdhva Mukha Svanasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Upward-facing dog: hands on the floor under the shoulders with straight arms, chest lifted and open, hips and thighs lifted off the floor, only the tops of the feet and the palms touching the floor, gaze forward or slightly up, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 34,
+  "en": "Natarajasana",
+  "hi": "नटराजासन",
+  "line": "यह आसन संतुलन, लचीलापन और एकाग्रता बढ़ाने में मदद करता है।",
+  "points": [
+   "Santulan aur ekagrata badhata hai",
+   "Jaangh aur kandhon ko stretch deta hai",
+   "Pairon ko mazboot banata hai",
+   "Sharir ka lachilapan badhata hai"
+  ],
+  "how": "Ek pair par khade ho, doosra pair peeche se pakdo, aage ka hath saamne failao.",
+  "prompt": "A realistic photograph of a real person doing the Natarajasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Dancer pose: standing on one straight leg, the other leg lifted behind and held by the same-side hand, the free arm stretched forward, torso leaning slightly forward, chest open, gaze forward, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 35,
+  "en": "Upavistha Konasana",
+  "hi": "उपविष्ट कोणासन",
+  "line": "यह आसन जांघों के अंदर और पीछे के हिस्से को खींचता है।",
+  "points": [
+   "Jaangh ke andar ki muscles ko stretch deta hai",
+   "Pairon ke piche ki muscles ko kholta hai",
+   "Kamar ko dheela karne me madad karta hai",
+   "Rid ko seedha rakhne ki practice karta hai"
+  ],
+  "how": "Pair chaude failao, rid seedhi, kamar se aage jhuko, hath aage badhao.",
+  "prompt": "A realistic photograph of a real person doing the Upavistha Konasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Wide-angle seated forward bend: sitting with both legs stretched wide apart in a V shape, feet flexed, torso folded forward from the hips with a long straight spine, both hands walking forward on the floor, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 36,
+  "en": "Eka Pada Rajakapotasana",
+  "hi": "एक पाद राजकपोतासन",
+  "line": "यह आसन कूल्हों की जकड़न को खोलने में मदद करता है।",
+  "points": [
+   "Kuulhon ki jakdan kholne me madad karta hai",
+   "Jaangh ke aage ki muscles ko stretch deta hai",
+   "Kamar ko aaram dene me madad karta hai",
+   "Mann ko shant karne me madad karta hai"
+  ],
+  "how": "Ek ghutna aage modo, doosra pair peeche failao, kulhe zameen ki taraf, aage jhuko.",
+  "prompt": "A realistic photograph of a real person doing the Eka Pada Rajakapotasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Pigeon pose: one knee bent forward on the floor with the shin angled in front of the hips, the other leg stretched straight back on the floor, torso upright with the chest lifted and both hands on the floor beside the front leg, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 37,
+  "en": "Ananda Balasana",
+  "hi": "आनंद बालासन",
+  "line": "यह आसन कूल्हों और कमर को आराम देने में मदद करता है।",
+  "points": [
+   "Kuulhon aur kamar ko aaram deta hai",
+   "Jaangh ke andar ki muscles ko stretch deta hai",
+   "Mann ko halka mehsoos karne me madad karta hai",
+   "Peeth ke neeche ke hisse ko dheela karta hai"
+  ],
+  "how": "Peeth ke bal let kar ghutne chhati ki taraf modo, pairon ke bahari hisse ko pakdo.",
+  "prompt": "A realistic photograph of a real person doing the Ananda Balasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Happy baby pose: lying on the back, knees bent and drawn wide toward the armpits, soles of the feet facing the ceiling, both hands holding the outer edges of the feet, head and back resting on the floor, front or side view, relaxed smiling face. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 38,
+  "en": "Supta Baddha Konasana",
+  "hi": "सुप्त बद्धकोणासन",
+  "line": "यह आसन कूल्हों को खोलकर शरीर को आराम देता है।",
+  "points": [
+   "Kuulhon aur jaangh ke andar ko kholta hai",
+   "Poore sharir ko aaram dene me madad karta hai",
+   "Saans ko gehra karne me madad karta hai",
+   "Tanav kam mehsoos karne me madad karta hai"
+  ],
+  "how": "Peeth ke bal let kar dono talwe milao, ghutne side me girne do, hath side me.",
+  "prompt": "A realistic photograph of a real person doing the Supta Baddha Konasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Reclined bound angle pose: lying on the back with the soles of the feet pressed together and the knees dropped open to the sides, arms resting relaxed on the floor beside the body palms up, eyes closed, calm face, front view from above or the side. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 39,
+  "en": "Viparita Karani",
+  "hi": "विपरीत करणी",
+  "line": "यह आसन थके हुए पैरों को आराम देने में मदद करता है।",
+  "points": [
+   "Thake hue pairon ko aaram deta hai",
+   "Mann ko shant karne me madad karta hai",
+   "Kamar ko halka aaram deta hai",
+   "Din bhar ki thakan ke baad karne ke liye accha hai"
+  ],
+  "how": "Deewar ke paas peeth ke bal let kar pair deewar par upar rakho, hath side me.",
+  "prompt": "A realistic photograph of a real person doing the Viparita Karani yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Legs-up-the-wall pose: lying on the back with the buttocks near a wall and both legs resting straight up against the wall, arms relaxed on the floor beside the body palms up, eyes closed, calm face, side view showing the wall. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 40,
+  "en": "Pawanmuktasana",
+  "hi": "पवनमुक्तासन",
+  "line": "यह आसन पेट की गैस कम करने में मदद करता है।",
+  "points": [
+   "Pet ki gas kam karne me madad karta hai",
+   "Pachan me madad karta hai",
+   "Kamar aur peeth ko halka dabav deta hai",
+   "Pet ki muscles ko active karta hai"
+  ],
+  "how": "Peeth ke bal let kar ghutne chhati ki taraf laao, hathon se pakdo, sir halka uthao.",
+  "prompt": "A realistic photograph of a real person doing the Pawanmuktasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Wind-relieving pose: lying on the back with both knees pulled in toward the chest, both arms hugging the shins, head lifted slightly toward the knees, side view, relaxed. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 41,
+  "en": "Supta Padangusthasana",
+  "hi": "सुप्त पादांगुष्ठासन",
+  "line": "यह आसन पैरों के पीछे की मांसपेशियों को खींचता है।",
+  "points": [
+   "Pairon ke piche ki muscles ko stretch deta hai",
+   "Kuulhon ko dheela karne me madad karta hai",
+   "Kamar ko aaram dene me madad karta hai",
+   "Sharir ka lachilapan badhata hai"
+  ],
+  "how": "Peeth ke bal let kar ek pair upar uthao, hathon se ya belt se pakdo, doosra pair zameen par.",
+  "prompt": "A realistic photograph of a real person doing the Supta Padangusthasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Reclining hand-to-big-toe pose: lying on the back, one leg raised straight up toward the ceiling with both hands (or a strap) holding the foot, the other leg straight and flat on the floor, head and shoulders resting on the floor, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 42,
+  "en": "Malasana",
+  "hi": "मालासन",
+  "line": "यह आसन कूल्हों और टखनों को खोलने में मदद करता है।",
+  "points": [
+   "Kuulhon aur takhno ko kholne me madad karta hai",
+   "Jaangh aur pairon ko mazboot karta hai",
+   "Pachan me madad karta hai",
+   "Rid ko seedha rakhne me madad karta hai"
+  ],
+  "how": "Pair chaude karo, neeche baitho jaise malaa pehni ho, hath namaste me, kohni ghutno ke andar.",
+  "prompt": "A realistic photograph of a real person doing the Malasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Garland pose: deep squat with feet a little wider than the hips and toes turned slightly out, hips low, torso upright between the knees, palms joined in prayer at the chest with the elbows pressing the inner knees, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 43,
+  "en": "Ardha Uttanasana",
+  "hi": "अर्ध उत्तानासन",
+  "line": "यह आसन पीठ सीधी रखकर पैरों को खींचने में मदद करता है।",
+  "points": [
+   "Peeth ko seedha rakhne ki practice karta hai",
+   "Pairon ke piche ki muscles ko stretch deta hai",
+   "Kamar ko mazboot karta hai",
+   "Aage jhukne wale asano ki taiyari karta hai"
+  ],
+  "how": "Khade ho kar kamar se aage jhuko, peeth seedhi, hath ghutno ya jaangh par, nazar aage.",
+  "prompt": "A realistic photograph of a real person doing the Ardha Uttanasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Half forward fold: standing, torso bent forward from the hips until the back is flat and parallel to the floor, fingertips on the shins or on the floor, neck long, gaze toward the floor ahead, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 44,
+  "en": "Parivrtta Trikonasana",
+  "hi": "परिवृत्त त्रिकोणासन",
+  "line": "यह आसन रीढ़ को घुमाकर पैरों को खींचने में मदद करता है।",
+  "points": [
+   "Rid ko ghumane se lachilapan badhta hai",
+   "Pairon ke piche ki muscles ko stretch deta hai",
+   "Santulan sudharne me madad karta hai",
+   "Pachan tantra ko halka stimulate karta hai"
+  ],
+  "how": "Pair aage-peeche karo, kamar se aage jhuko, ulta hath neeche, doosra hath upar, rid ghumao.",
+  "prompt": "A realistic photograph of a real person doing the Parivrtta Trikonasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Revolved triangle pose: standing in a long stance, torso folded forward and twisted, one hand on the floor or a block beside the opposite foot, the other arm stretched straight up so the two arms form a vertical line, both legs straight, chest open, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 45,
+  "en": "Vasisthasana",
+  "hi": "वशिष्ठासन",
+  "line": "यह आसन बाजुओं और कोर को मज़बूत बनाने में मदद करता है।",
+  "points": [
+   "Bahon aur kalaiyon ko mazboot karta hai",
+   "Core aur kamar ke side ko mazboot karta hai",
+   "Santulan sudharne me madad karta hai",
+   "Ekagrata badhane me madad karta hai"
+  ],
+  "how": "Side plank me aao, ek hath par balance karo, doosra hath upar uthao. Kalai me dard ho to na kare.",
+  "prompt": "A realistic photograph of a real person doing the Vasisthasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Side plank: balancing on one straight arm with the wrist under the shoulder and the sides of the feet stacked, body in one straight diagonal line, the other arm stretched up toward the ceiling, gaze up or forward, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 46,
+  "en": "Chaturanga Dandasana",
+  "hi": "चतुरंग दंडासन",
+  "line": "यह आसन बाजुओं, कंधों और कोर को मज़बूत बनाता है।",
+  "points": [
+   "Bahon aur kandhon ko mazboot karta hai",
+   "Core ki taakat badhata hai",
+   "Poore sharir me stamina laata hai",
+   "Surya Namaskar ka mukhya hissa hai"
+  ],
+  "how": "Plank se dheere neeche aao, kohni sharir ke paas, sharir seedhi line me zameen ke upar.",
+  "prompt": "A realistic photograph of a real person doing the Chaturanga Dandasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Low plank: hovering just above the floor on the palms and toes, elbows bent at ninety degrees tucked close to the ribs, body in one straight line from head to heels, gaze slightly forward, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 47,
+  "en": "Phalakasana",
+  "hi": "फलकासन",
+  "line": "यह आसन पूरे शरीर की ताकत और कोर को मज़बूत बनाता है।",
+  "points": [
+   "Core aur pet ki muscles ko mazboot karta hai",
+   "Kandhon aur bahon me taakat laata hai",
+   "Poore sharir ko active karta hai",
+   "Posture sudharne me madad karta hai"
+  ],
+  "how": "Hath kandhon ke neeche, sharir sir se pair tak seedhi line me, pet andar kheecho.",
+  "prompt": "A realistic photograph of a real person doing the Phalakasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. High plank: balancing on straight arms with the palms under the shoulders and toes on the floor, body in one straight line from head to heels, hips level, gaze down between the hands, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 48,
+  "en": "Parsvottanasana",
+  "hi": "पार्श्वोत्तानासन",
+  "line": "यह आसन पैरों और पीठ को खींचकर संतुलन सुधारता है।",
+  "points": [
+   "Pairon ke piche ki muscles ko stretch deta hai",
+   "Peeth aur kandhon ko kholta hai",
+   "Santulan sudharne me madad karta hai",
+   "Posture sudharne me madad karta hai"
+  ],
+  "how": "Ek pair aage, ek peeche, hath peeth ke peeche namaste me, kamar se aage jhuko.",
+  "prompt": "A realistic photograph of a real person doing the Parsvottanasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Intense side stretch: standing in a short stance with one foot forward and the other back, hips square, palms joined in reverse prayer behind the back, torso folded forward over the front leg, both legs straight, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 49,
+  "en": "Anjaneyasana",
+  "hi": "अंजनेयासन",
+  "line": "यह आसन कूल्हों और जांघों के आगे के हिस्से को खींचता है।",
+  "points": [
+   "Kuulhon aur jaangh ke aage ki muscles ko stretch deta hai",
+   "Pairon ko mazboot karta hai",
+   "Santulan sudharne me madad karta hai",
+   "Chhati ko kholne me madad karta hai"
+  ],
+  "how": "Ek ghutna aage modo, doosra ghutna zameen par, hath sir ke upar uthao.",
+  "prompt": "A realistic photograph of a real person doing the Anjaneyasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Low lunge: one foot forward with the knee bent at ninety degrees, the back knee resting on the floor with the top of the foot down, torso upright, both arms raised overhead with palms together, chest open, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 50,
+  "en": "Simhasana",
+  "hi": "सिंहासन",
+  "line": "यह आसन चेहरे और गले को ढीला करने में मदद करता है।",
+  "points": [
+   "Chehre aur gale ki muscles ko dheela karta hai",
+   "Tanav kam mehsoos karne me madad karta hai",
+   "Saans par dhyan lagane me madad karta hai",
+   "Mann ko halka karne me madad karta hai"
+  ],
+  "how": "Vajrasana me baitho, hath ghutno par, saans chhodte hue munh khol kar jeebh bahar nikalo.",
+  "prompt": "A realistic photograph of a real person doing the Simhasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Lion pose: kneeling and sitting back on the heels, hands pressing on the knees with fingers spread, mouth wide open with the tongue stretched out and the eyes wide, spine straight, front view, playful but tasteful expression. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 51,
+  "en": "Makarasana",
+  "hi": "मकरासन",
+  "line": "यह आसन पेट के बल लेटकर शरीर को आराम देता है।",
+  "points": [
+   "Poore sharir ko aaram dene me madad karta hai",
+   "Peeth aur kamar ko dheela rakhta hai",
+   "Saans par dhyan lagane me madad karta hai",
+   "Yoga ke beech me aaram karne ke liye accha hai"
+  ],
+  "how": "Pet ke bal let jao, hathon par thudi ya maatha rakho, pair thode alag, aankhein band.",
+  "prompt": "A realistic photograph of a real person doing the Makarasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Crocodile pose: lying on the stomach with legs slightly apart and relaxed, forearms stacked under the forehead or chin, head resting on the arms, eyes closed, calm face, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 52,
+  "en": "Utkata Konasana",
+  "hi": "उत्कट कोणासन",
+  "line": "यह आसन कूल्हों, जांघों और पैरों को मज़बूत बनाता है।",
+  "points": [
+   "Jaangh aur kulhon ko mazboot karta hai",
+   "Pairon me taakat laata hai",
+   "Santulan sudharne me madad karta hai",
+   "Rid ko seedha rakhne me madad karta hai"
+  ],
+  "how": "Pair chaude karo, panje bahar, ghutne modo, hath kohni se mode kar upar rakho.",
+  "prompt": "A realistic photograph of a real person doing the Utkata Konasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Goddess pose: standing with feet wide apart and toes turned out, knees bent over the ankles in a wide squat, torso upright, both arms raised with elbows bent at ninety degrees and palms facing forward, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 53,
+  "en": "Parighasana",
+  "hi": "परिघासन",
+  "line": "यह आसन बगल की मांसपेशियों को खींचने में मदद करता है।",
+  "points": [
+   "Kamar ke side ki muscles ko stretch deta hai",
+   "Phephdon ke liye jagah banata hai",
+   "Rid ko lachila banane me madad karta hai",
+   "Kuulhon ko halka kholta hai"
+  ],
+  "how": "Ghutno ke bal khade ho, ek pair side me failao, side me jhuko, hath sir ke upar.",
+  "prompt": "A realistic photograph of a real person doing the Parighasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Gate pose: kneeling on one knee with the other leg stretched out straight to the side, torso bent sideways over the straight leg with one hand sliding down the leg, the other arm stretched overhead in an arc, chest open, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 54,
+  "en": "Purvottanasana",
+  "hi": "पूर्वोत्तानासन",
+  "line": "यह आसन बाजुओं, कंधों और पीठ को मज़बूत बनाता है।",
+  "points": [
+   "Bahon aur kandhon ko mazboot karta hai",
+   "Peeth ki muscles ko active karta hai",
+   "Chhati aur kandhon ko kholta hai",
+   "Kalaiyon ko mazboot karne me madad karta hai"
+  ],
+  "how": "Pair saamne failao, hath peeche zameen par rakho, kulhe upar uthao, sir halka peeche.",
+  "prompt": "A realistic photograph of a real person doing the Purvottanasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Reverse plank: sitting with legs stretched forward, palms on the floor behind the hips with fingers pointing toward the feet, hips lifted so the body forms one straight diagonal line from head to heels, chest open, head neutral, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 55,
+  "en": "Supta Vajrasana",
+  "hi": "सुप्त वज्रासन",
+  "line": "यह आसन छाती और जांघों को खोलने में मदद करता है।",
+  "points": [
+   "Chhati aur kandhon ko kholne me madad karta hai",
+   "Jaangh ke aage ki muscles ko stretch deta hai",
+   "Peeth ko peeche ki taraf lachila banata hai",
+   "Saans ke liye jagah banata hai"
+  ],
+  "how": "Vajrasana me baitho, kohniyon ke sahare peeche let jao, ghutne dukhe to na kare.",
+  "prompt": "A realistic photograph of a real person doing the Supta Vajrasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Reclined hero pose: kneeling and sitting between or on the heels, then leaning back until the back rests on the floor, arms stretched overhead or resting on the thighs, knees together, chest lifted slightly, side view, calm face. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 56,
+  "en": "Yoga Mudrasana",
+  "hi": "योग मुद्रासन",
+  "line": "यह आसन मन को शांत करके पीठ को आराम देता है।",
+  "points": [
+   "Mann ko shant karne me madad karta hai",
+   "Peeth aur kamar ko dheela karta hai",
+   "Pet ko halka dabav deta hai",
+   "Kandhon ko kholne me madad karta hai"
+  ],
+  "how": "Padmasana ya Sukhasana me baitho, hath peeth ke peeche pakdo, aage jhuko.",
+  "prompt": "A realistic photograph of a real person doing the Yoga Mudrasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Yoga mudra pose: sitting cross-legged, both hands clasped behind the back, torso folded forward with the forehead toward the floor, spine long, shoulders relaxed, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 57,
+  "en": "Vakrasana",
+  "hi": "वक्रासन",
+  "line": "यह आसन रीढ़ को हल्का घुमाकर लचीलापन बढ़ाता है।",
+  "points": [
+   "Rid ko halka ghumane se lachilapan badhta hai",
+   "Kamar ki akdan kam karne me madad karta hai",
+   "Pet ki muscles ko halka dabav deta hai",
+   "Peeth ko seedha rakhne ki practice karta hai"
+  ],
+  "how": "Pair saamne failao, ek ghutna modo, doosre hath se piche mudo, rid seedhi rakho.",
+  "prompt": "A realistic photograph of a real person doing the Vakrasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Simple seated twist: sitting with one leg straight and the other knee bent with the foot flat on the floor beside the straight knee, torso upright and twisted toward the bent knee, one arm hugging the knee and the other palm on the floor behind the back, gaze over the shoulder, front view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 58,
+  "en": "Apanasana",
+  "hi": "अपानासन",
+  "line": "यह आसन कमर को आराम और पेट को राहत देता है।",
+  "points": [
+   "Kamar ko aaram dene me madad karta hai",
+   "Pet ki gas kam karne me madad karta hai",
+   "Nitamb aur jaangh ko halka stretch deta hai",
+   "Raat ko sone se pehle karne ke liye accha hai"
+  ],
+  "how": "Peeth ke bal let kar ghutne chhati ki taraf laao, hathon se pakdo, saans dheere.",
+  "prompt": "A realistic photograph of a real person doing the Apanasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Knees-to-chest pose: lying on the back with both knees drawn gently toward the chest, both hands holding the knees, head and shoulders resting on the floor, eyes closed, relaxed face, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 59,
+  "en": "Katichakrasana",
+  "hi": "कटिचक्रासन",
+  "line": "यह आसन कमर और रीढ़ की लचक बढ़ाने में मदद करता है।",
+  "points": [
+   "Kamar aur rid ki lachak badhane me madad karta hai",
+   "Kandhon aur bahon ko stretch deta hai",
+   "Pet ki muscles ko halka active karta hai",
+   "Sharir ko halka garam karne ke liye accha hai"
+  ],
+  "how": "Pair chaude khade ho, hath side me failao, kamar se ghumo, ek hath doosre kandhe par.",
+  "prompt": "A realistic photograph of a real person doing the Katichakrasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Standing waist twist: standing with feet hip-width apart, both arms stretched out at shoulder height, torso rotated to one side so one hand wraps toward the opposite shoulder and the other arm swings behind the back, hips facing forward, back view or front view, relaxed. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ },
+ {
+  "n": 60,
+  "en": "Ardha Chakrasana",
+  "hi": "अर्धचक्रासन",
+  "line": "यह आसन छाती खोलता और रीढ़ को पीछे लचीला बनाता है।",
+  "points": [
+   "Chhati ko kholne me madad karta hai",
+   "Rid ko peeche ki taraf lachila banata hai",
+   "Kandhon aur bahon ko stretch deta hai",
+   "Jaangh aur kulhon ko active karta hai"
+  ],
+  "how": "Khade ho, hath kamar par rakho, dheere se peeche jhuko. Kamar me dard ho to na kare.",
+  "prompt": "A realistic photograph of a real person doing the Ardha Chakrasana yoga pose on a clearly visible yoga mat, wearing modest, comfortable yoga clothing (full-length pants and a full-sleeve top) in slightly vibrant, natural colors. Standing half wheel: standing with feet hip-width apart, hands supporting the lower back, torso gently arched backward with the chest lifted and head relaxed back, hips pushed slightly forward, side view. Natural human anatomy: exactly one person, two arms, two legs, five fingers on each hand, no extra or missing limbs. Setting: a calm, tasteful yoga space with soft natural daylight, a few green plants and a softly blurred natural background (wooden floor or garden). Full body visible, centered in the middle of the frame. Portrait 4:5 (1080x1350). Keep the top 10% of the image empty; just below that, at the top center, write in clean white sans-serif lettering with a soft shadow: the word arerajyogaclub, and under it the line Follow for more yoga (spelled exactly like this, no other text anywhere in the image). Keep the bottom third of the image calm and uncluttered (plain mat, floor or soft blur) because text will be added there later."
+ }
+]
