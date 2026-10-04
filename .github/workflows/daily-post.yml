@@ -11,6 +11,10 @@ on:
         description: "Test only: make the picture + caption but do NOT post (tick this to test safely)"
         type: boolean
         default: false
+      force:
+        description: "Post even if today's post is already done (use only on purpose)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -37,6 +41,7 @@ jobs:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DRY_RUN: ${{ inputs.dry_run }}
+          FORCE: ${{ inputs.force }}
       - name: Save test preview (only in test mode)
         if: ${{ inputs.dry_run }}
         uses: actions/upload-artifact@v4
