@@ -2,12 +2,23 @@ name: Daily Yoga Post
 
 on:
   schedule:
-    - cron: "30 1 * * *"    # 01:30 UTC = 7:00 AM IST daily
+    - cron: "42 1 * * *"    # 01:42 UTC = 7:12 AM IST daily (odd minute: GitHub is less busy than at :00 / :30)
+    # Backup (optional): remove the '#' on the next line to also try at 8:12 AM IST. It skips if today's post is already done.
+    # - cron: "42 2 * * *"
   workflow_dispatch:         # lets you run it manually to test
+    inputs:
+      dry_run:
+        description: "Test only: make the picture + caption but do NOT post (tick this to test safely)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
   issues: write
+
+concurrency:
+  group: daily-post
+  cancel-in-progress: false
 
 jobs:
   post:
@@ -25,3 +36,12 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DRY_RUN: ${{ inputs.dry_run }}
+      - name: Save test preview (only in test mode)
+        if: ${{ inputs.dry_run }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: preview
+          path: |
+            preview.jpg
+            preview_caption.txt
