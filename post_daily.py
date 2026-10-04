@@ -2,7 +2,7 @@
 
 How it works
   * You put images in the repo folder `queue/` named by number:  01.png, 02.png ... (01-tadasana.png is fine too).
-  * Every day at 7 AM the oldest number is taken, its Hindi one-liner + caption come from content.json
+  * Every day at 7:12 AM the oldest number is taken, its Hindi one-liner + caption come from content.json
     (already reviewed by you), the Hindi text is printed on the image, and it is posted to Instagram.
   * The used image is removed from queue/. When 2 or fewer images are left, a GitHub Issue with the
     next 10 image prompts is opened (GitHub e-mails you) so you can make the next batch.
@@ -123,20 +123,35 @@ def remove_from_queue(f):
         print("WARNING: queue image delete nahi hui, haath se hata do:", e)
 
 
-# ---------------------------------------------------------------- state (last posted number)
-def read_last_n():
+# ---------------------------------------------------------------- state (last posted number + date)
+IST = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
+
+
+def today_ist():
+    return datetime.datetime.now(IST).date().isoformat()
+
+
+def read_state():
     try:
         r = requests.get(f"{API}/contents/state.json", headers=GH, timeout=30)
         if r.ok:
-            return int(json.loads(base64.b64decode(r.json()["content"]))["last_n"])
+            return json.loads(base64.b64decode(r.json()["content"]))
     except (requests.RequestException, ValueError, KeyError):
         pass
-    return 0
+    return {}
+
+
+def read_last_n():
+    try:
+        return int(read_state().get("last_n", 0))
+    except (TypeError, ValueError):
+        return 0
 
 
 def write_last_n(n):
     try:
-        payload = {"message": f"Posted #{n}", "content": base64.b64encode(json.dumps({"last_n": n}).encode()).decode()}
+        data = {"last_n": n, "last_date": today_ist()}
+        payload = {"message": f"Posted #{n}", "content": base64.b64encode(json.dumps(data).encode()).decode()}
         old = requests.get(f"{API}/contents/state.json", headers=GH, timeout=30)
         if old.ok:
             payload["sha"] = old.json()["sha"]
@@ -290,7 +305,25 @@ def add_hindi_text(img, pose_hi, benefit_hi):
     for ln in body_lines:
         d.text((W // 2, y), ln, font=body_font, fill=BODY_COLOR, anchor="ma", language="hi")
         y += line_h
-    return out.convert("RGB")
+    return add_logo(out.convert("RGB"))
+
+
+LOGO_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets", "instagram_logo.png")
+
+
+def add_logo(img):
+    """Optional: put YOUR official Instagram logo file (assets/instagram_logo.png) in the top-left corner.
+    If the file is not in the repo, nothing is added."""
+    if not os.path.exists(LOGO_PATH):
+        return img
+    try:
+        logo = Image.open(LOGO_PATH).convert("RGBA")
+        logo = logo.resize((52, max(1, round(52 * logo.height / logo.width))))
+        img = img.convert("RGBA")
+        img.paste(logo, (36, 36), logo)  # top-left corner, so it never overlaps the header text
+        return img.convert("RGB")
+    except Exception:
+        return img
 
 
 def to_jpeg(img):
@@ -349,6 +382,10 @@ def post_to_instagram(image_url, caption):
 
 
 def main():
+    # Backup schedules (8:12 and 9:12 IST) must NOT post twice: skip if today's post is already done.
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and read_state().get("last_date") == today_ist():
+        print("Aaj ka post ho chuka hai - is run me kuch nahi karna.")
+        return
     queue = list_queue()
     if not queue:
         notify_prompts(read_last_n() + 1)
@@ -357,9 +394,20 @@ def main():
     e = entry_for(num)
     print(f"Image #{num}: {f['name']} -> {e['en']} ({e['hi']})")
     img = add_hindi_text(load_queue_image(f), e["hi"], e["line"])
+    caption = build_caption(e)
+    if os.environ.get("DRY_RUN", "").lower() == "true":
+        # TEST MODE: nothing is posted, uploaded, deleted or saved. Look at the files in the run's "Artifacts".
+        with open("preview.jpg", "wb") as pf:
+            pf.write(to_jpeg(img))
+        with open("preview_caption.txt", "w", encoding="utf-8") as cf:
+            cf.write(caption)
+        print("DRY RUN: preview.jpg aur preview_caption.txt ban gayi. Instagram par kuch post nahi hua.")
+        print("----- caption -----")
+        print(caption)
+        return
     url = upload_to_github(to_jpeg(img))
     print("Image URL:", url)
-    post_id = post_to_instagram(url, build_caption(e))
+    post_id = post_to_instagram(url, caption)
     print("Posted! Media ID:", post_id)
     remove_from_queue(f)
     write_last_n(num)
