@@ -382,20 +382,27 @@ def post_to_instagram(image_url, caption):
 
 
 def main():
-    # Backup schedules (8:12 and 9:12 IST) must NOT post twice: skip if today's post is already done.
-    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and read_state().get("last_date") == today_ist():
-        print("Aaj ka post ho chuka hai - is run me kuch nahi karna.")
+    dry = os.environ.get("DRY_RUN", "").lower() == "true"
+    force = os.environ.get("FORCE", "").lower() == "true"
+    state = read_state()
+    # ONE post per day: applies to scheduled AND manual runs. Tick "force" in Run workflow to post again on purpose.
+    if not dry and not force and state.get("last_date") == today_ist():
+        print("Aaj ka post ho chuka hai - is run me kuch nahi karna. (Dobara karna ho to Run workflow me 'force' tick karo.)")
         return
     queue = list_queue()
     if not queue:
         notify_prompts(read_last_n() + 1)
         raise FatalError("Queue khali hai: `queue/` folder me nayi image daalo (GitHub Issue me prompts bhej diye hain).")
     num, f = queue[0]
+    last_n = read_last_n()
+    if not dry and not force and num <= last_n:
+        raise FatalError(f"`{f['name']}` (number {num}) pehle hi post ho chuki hai (last_n = {last_n}). "
+                         "Is file ko `queue/` se hata do, ya naya number do. Zabardasti post karni ho to 'force' tick karo.")
     e = entry_for(num)
     print(f"Image #{num}: {f['name']} -> {e['en']} ({e['hi']})")
     img = add_hindi_text(load_queue_image(f), e["hi"], e["line"])
     caption = build_caption(e)
-    if os.environ.get("DRY_RUN", "").lower() == "true":
+    if dry:
         # TEST MODE: nothing is posted, uploaded, deleted or saved. Look at the files in the run's "Artifacts".
         with open("preview.jpg", "wb") as pf:
             pf.write(to_jpeg(img))
